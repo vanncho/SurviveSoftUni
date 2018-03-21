@@ -1,3 +1,3 @@
 # SurviveSoftUni
 
-JavaFX game - original project repository. That i was one of the contributors https://github.com/Team-Saphira
+JavaFX game - original project repository https://github.com/Team-Saphira. That i was one of the contributors/
